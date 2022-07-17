@@ -22,7 +22,7 @@ import org.springframework.web.util.UriComponents;
 import br.com.os.config.Mapper;
 import br.com.os.model.dto.TecnicoDto;
 import br.com.os.service.TecnicoService;
-
+ 
 @CrossOrigin("*")
 @RestController
 @RequestMapping("/tecnico")
